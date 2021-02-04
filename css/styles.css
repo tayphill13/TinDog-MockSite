@@ -117,11 +117,10 @@ p {
 }
 
 /* Pricing Section */
-
-.pricing-header {
+#pricing {
+  padding: 100px;
   text-align: center;
 }
-
-.card-deck {
-  padding: 7% 15%;
+.pricing-column {
+  padding: 3% 2%;
 }

@@ -6,7 +6,7 @@ body {
   color: #fff;
 }
 .container-fluid  {
-  padding: 3% 15% 7%;
+  padding: 3% 15% 7%; /* top, left/right and bottom */
 }
 
 h1  {
@@ -63,7 +63,7 @@ p {
 
 .title-image {
   width: 60%;
-  margin-left: 50px;
+  right: 30%;  /* this is 30%, from the right */
   transform: rotate(25deg);
   position: absolute;
 }
@@ -71,7 +71,7 @@ p {
 /* Features section */
 
 #features {
-  padding: 7% 15%;
+  padding: 7% 15%; /* 2 values is just top/bottom left/right */
   background-color: #fff;
   position: relative;
 }

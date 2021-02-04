@@ -55,3 +55,10 @@ h1  {
 
 /* Features section */
 
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  align-items: center;
+}

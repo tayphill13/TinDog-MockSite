@@ -73,8 +73,9 @@ p {
 }
 
 .icon {
+  color: #ef8172;
   font-size: 3rem;
-  padding: 1rem;
+  margin-bottom: 1rem;
 }
 .icon:hover {
   color: #ff4c68;

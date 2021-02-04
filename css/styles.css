@@ -71,3 +71,12 @@ p {
 .feature-box {
   text-align: center;
 }
+
+.fas {
+  font-size: 3rem;
+  padding: 1rem;
+}
+.fas:hover {
+  color: #ff4c68;
+  text-shadow: 1px 2px 0px #8f8f8f;
+}

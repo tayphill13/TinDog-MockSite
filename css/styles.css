@@ -65,13 +65,18 @@ p {
 
 .title-image {
   width: 60%;
+  margin-left: 50px;
   transform: rotate(25deg);
+  position: absolute;
 }
 
 /* Features section */
 
 #features {
   padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
 }
 
 .feature-box {

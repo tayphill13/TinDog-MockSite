@@ -4,15 +4,7 @@ body {
 h1, h2, h3, h4, h5, h6  {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-}
-h2 {
-  font-size: 3rem;
-  line-height: 1.5;
-  
-}
-h3  {
-  font-size: 1.5rem;
-}
+} 
 p {
   color: #8f8f8f;
 }
@@ -23,7 +15,7 @@ p {
   line-height: 1.5;
   font-weight: 900;
 }
-.secion-heading {
+.section-heading {
   font-size: 3rem;
   line-height: 1.5;
 }
@@ -76,6 +68,9 @@ p {
 .feature-box {
   text-align: center;
 }
+.feature-title {
+  font-size: 1.5;
+}
 .icon {
   color: #ef8172;
   font-size: 3rem;
@@ -89,7 +84,7 @@ p {
 /* Testimonial Section */
 #testimonials {
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #ef8172;
   color: #fff
 }
 .testimonial-text {
@@ -107,7 +102,7 @@ p {
 
 /* Press Section */
 #press {
-  background-color: #ff4c68;
+  background-color: #ef8172;
   text-align: center;
   padding-bottom: 3%;
 }

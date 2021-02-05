@@ -116,6 +116,10 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 /* Call to Action Section  */
 #cta {

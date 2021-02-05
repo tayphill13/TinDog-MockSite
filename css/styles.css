@@ -133,8 +133,10 @@ p {
 #footer {
   background-color: #fff;
   text-align: center;
-  color: #8f8f8f;
-  padding: 3% 2%;
+  padding: 7% 15%;
+}
+.social-icon {
+  margin: 20px 10px;
 }
 
 

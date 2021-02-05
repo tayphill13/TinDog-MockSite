@@ -26,7 +26,7 @@ p {
   text-align: left;
 }
 .container-fluid  {
-  padding: 3% 15% 7%; /* top, left/right and bottom */
+  padding: 7% 15%;
 }
 
 
@@ -63,7 +63,6 @@ p {
 
 /* Features section */
 #features {
-  padding: 7% 15%; /* 2 values is just top/bottom left/right */
   background-color: #fff;
   position: relative;
 }
@@ -89,13 +88,10 @@ p {
   font-size: 3rem;
   line-height: 1.5;
 }
-.testimonials\-image {
+.testimonials-image {
   width: 15%;
   border-radius: 100%;
   margin: 20px;
-}
-.carousel-item {
-  padding: 7% 15%;
 }
 
 /* Press Section */

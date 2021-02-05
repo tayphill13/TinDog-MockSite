@@ -23,6 +23,10 @@ p {
   line-height: 1.5;
   font-weight: 900;
 }
+.secion-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 #title {
   background-color: #ff4c68;
   color: #fff;

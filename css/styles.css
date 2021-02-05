@@ -88,7 +88,11 @@ p {
   background-color: #ff4c68;
   color: #fff
 }
-.testimonials-image {
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonials\-image {
   width: 15%;
   border-radius: 100%;
   margin: 20px;
